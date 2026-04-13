@@ -1,0 +1,64 @@
+Duke,1,35.9976,-78.9422,Greeneville
+Sienna,16,42.648611,-73.754722,Greeneville
+Ohio State,8,40.007511,-83.025102,Greeneville
+TCU,9,32.708774,-97.36673,Greeneville
+St. John's,5,40.750556,-73.993611,San Diego
+Northern Iowa,12,42.51395,-92.46714,San Diego
+Kansas,4,38.954306,-95.252394,San Diego
+Cal Baptist,13,33.927501,-117.423266,San Diego
+Louisville,6,38.275,-85.753889,Buffalo
+South Florida,11,28.059236,-82.406472,Buffalo
+Michigan State,3,42.728227,-84.492396,Buffalo
+North Dakota State,14,46.900442,-96.799025,Buffalo
+UCLA,7,34.070211,-118.446775,Philadelphia
+UCF,10,28.6068,-81.1976,Philadelphia
+UConn,2,41.805292,-72.254194,Philadelphia
+Furman,15,34.9179771,-82.4373937,Philadelphia
+Florida,1,29.649444,-82.351111,Tampa
+Prairie View A&M,16,30.092278,-95.993083,Tampa
+Clemson,8,34.680278,-82.846389,Tampa
+Iowa,9,41.663611,-91.55444,Tampa
+Vanderbilt,5,36.144611,-86.80742,Oklahoma City
+McNeese,12,30.1755,-93.0295,Oklahoma City
+Nebraska,4,40.817778,-96.713333,Oklahoma City
+Troy,13,31.802222,-85.954722,Oklahoma City
+North Carolina,6,35.899722,-79.043889,Greeneville
+VCU,11,37.552918,-77.4529,Greeneville
+Illinois,3,40.096259,-88.235956,Greeneville
+Penn,14,39.951411,-75.188606,Greeneville
+Saint Mary's,7,37.841247,-122.106409,Oklahoma City
+Texas A&M,10,30.60578,-96.34619,Oklahoma City
+Houston,2,29.724722,-95.346944,Oklahoma City
+Idaho,15,46.7275,-117.018056,Oklahoma City
+Arizona,1,32.23,-110.95,San Diego
+Long Island,16,40.69059,-73.979176,San Diego
+Villanova,8,40.034072,-75.336553,San Diego
+Utah St,9,41.748,-111.812,San Diego
+Wisconsin,5,43.06942,-89.36972,Portland
+High Point,12,35.978333,-79.996667,Portland
+Arkansas,4,36.061518,-94.178188,Portland
+Hawaii,13,21.294167,-157.818889,Portland
+BYU,6,40.254,-111.649,Portland
+Texas,11,30.280972,-97.730472,Portland
+Gonzaga,3,47.665,-117.399,Portland
+Kennesaw St,14,34.036924,-84.580329,Portland
+Miami (FL),7,25.715,-80.279167,St. Louis
+Missouri,10,38.93237,-92.33303,St. Louis
+Purdue,2,40.433322,-86.916144,St. Louis
+Queens (NC),15,35.188764,-80.835147,St. Louis
+Michigan,1,42.265037,-83.746768,Buffalo
+Howard,16,38.9264,-77.0221,Buffalo
+Georgia,8,33.9428,-83.3780,Buffalo
+Saint Louis,9,38.63246,-90.22797,Buffalo
+Texas Tech,5,33.581261,-101.886636,Tampa
+Akron,12,41.075833,-81.508611,Tampa
+Alabama,4,33.202939,-87.539706,Tampa
+Hofstra,13,40.719681,-73.596865,Tampa
+Tennessee,6,35.951167,-83.95028,Philadelphia
+Miami (OH),11,39.517236,-87.73544,Philadelphia
+Virginia,3,38.0460,-78.5068,Philadelphia
+Wright St,14,39.781944,-84.0525,Philadelphia
+Kentucky,7,38.049444,-84.502778,St. Louis
+Santa Clara,10,37.349111,-121.935303,St. Louis
+Iowa St,2,42.02101,-93.634763,St. Louis
+Tennessee St,15,36.1691,-86.8294,St. Louis
