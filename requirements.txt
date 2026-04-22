@@ -1,0 +1,6 @@
+geopy
+gurobipy
+kaleido
+numpy
+pandas
+plotly
